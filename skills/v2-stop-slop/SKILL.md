@@ -1,11 +1,15 @@
-# UI/UX DESIGN & FRONTEND CRAFT SKILL
-## A highly detailed implementation skill for building premium websites and product interfaces
-
-> **Primary goal:** Build interfaces that are not merely functional or "pretty", but visually intentional, easy to understand, consistent, accessible, responsive, and refined at the smallest level of detail.
->
-> **Core rule:** Before implementing a meaningful UI, study strong real-world references in the same product category. Do not blindly copy layouts. Analyze the underlying hierarchy, spacing, typography, interaction patterns, information architecture, and visual rhythm, then create an original design system appropriate for the product.
-
 ---
+name: v2-stop-slop
+description: >
+  Build premium, visually intentional, accessible, responsive, and refined
+  websites and product interfaces with strong UI/UX design and frontend craft.
+  Study strong real-world references in the same product category before
+  implementing meaningful UI, analyzing hierarchy, spacing, typography,
+  interaction patterns, information architecture, and visual rhythm to create
+  an original design system appropriate for the product.
+---
+
+# UI/UX DESIGN & FRONTEND CRAFT SKILL
 
 # 1. ROLE AND OPERATING STANDARD
 
