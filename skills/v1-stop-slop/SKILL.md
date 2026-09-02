@@ -1,17 +1,15 @@
-# Premium SaaS Landing Page Design Skill
-
-## Skill Metadata
-
-```yaml
-name: premium-saas-landing-page
+---
+name: v1-stop-slop
 description: >
   Design and implement premium, modern SaaS landing pages with a dark,
   technical, enterprise-grade visual language inspired by high-quality
   developer tools and modern software companies.
 version: 1.0.0
-```
-
 ---
+
+# Premium SaaS Landing Page Design Skill
+
+## Skill Metadata
 
 # 1. Purpose
 
